@@ -10,8 +10,8 @@
 
 /* ================= VARIABLE ================ */
 :root {
-  --primary-color: hsl(9, 94%, 61%);
-  --primary-color-alt: hsl(28, 72%, 83%);
+  --primary-color: hsl(0, 0%, 100%);
+  --primary-color-alt: hsl(30, 5%, 92%);
   --second-color: #3e537c;
   --second-color-alt: hsla(220, 33%, 36%, 65%);
   --third-color: hsl(220, 36%, 28%);
@@ -117,7 +117,7 @@ header {
 /* -------- HOME SECTION -------------- */
 .section-1 {
   height: 100vh;
-  background-color: var(--dark-color);
+  background-color: rgb(7, 0, 0);
   display: grid;
 }
 /* .home-computer-container {} */

@@ -25,3 +25,4 @@ bxX.addEventListener('click', (e)=> {
         bxX.classList.remove('show-bx');
     }
 })
+
